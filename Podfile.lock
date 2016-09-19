@@ -1,0 +1,12 @@
+PODS:
+  - MobilePlayer (1.1.5)
+
+DEPENDENCIES:
+  - MobilePlayer
+
+SPEC CHECKSUMS:
+  MobilePlayer: 2fdc07a564fa89da65ff660f8fdcf06ab75f775d
+
+PODFILE CHECKSUM: 6316784a8672bcb4b03d6979ce2724eaee188402
+
+COCOAPODS: 1.0.1
